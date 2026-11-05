@@ -1,0 +1,27 @@
+DỮ LIỆU MINH HỌA – KHÔNG PHẢI ĐỀ THI THẬT
+Câu 1. Thiết bị nào xử lý lệnh?
+A. CPU
+B. Màn hình
+C. Bàn phím
+D. Chuột
+Câu 2. Thiết bị nào lưu dữ liệu tạm thời?
+A. SSD
+B. RAM
+C. HDD
+D. Máy in
+Câu 3. Thiết bị nào lưu dữ liệu lâu dài?
+A. CPU
+B. RAM
+C. SSD
+D. Quạt
+Câu 4. Thiết bị nào cấp điện cho máy?
+A. RAM
+B. Chuột
+C. CPU
+D. Bộ nguồn
+[DAP_AN]
+ma_de,cau,dap_an,diem
+001,1,A,2.5
+001,2,B,2.5
+001,3,C,2.5
+001,4,D,2.5
